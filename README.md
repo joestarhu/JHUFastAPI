@@ -1,0 +1,2 @@
+# JHUFastAPI
+这是一个FastAPI的模板，帮助您快速的使用FastAPI构建相关服务
